@@ -1,4 +1,4 @@
-import './collection-preview.component.scss';
+import './collection-preview.style.scss';
 
 const CollectionPreview = ({title, items}) => (
     <div className='collection-preview'>
